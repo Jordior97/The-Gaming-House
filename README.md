@@ -108,10 +108,6 @@ DEBUG:
 
 https://youtu.be/Vav6aMS2WUE
 
-### REPOSITORY LINK ###
-
-https://bitbucket.org/TheKyra/thegaminghouse/src
-
 ### WIKI LINK ###
 
 https://bitbucket.org/TheKyra/thegaminghouse/wiki/Home
